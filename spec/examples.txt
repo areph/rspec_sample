@@ -3,3 +3,4 @@ example_id                   | status | run_time        |
 ./spec/hello_spec.rb[1:1]    | passed | 0.00043 seconds |
 ./spec/user_spec.rb[1:1:1:1] | passed | 0.00013 seconds |
 ./spec/user_spec.rb[1:1:2:1] | passed | 0.00049 seconds |
+./spec/you_spec.rb[1:1:1]    | passed | 0.00278 seconds |
